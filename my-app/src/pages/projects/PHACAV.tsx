@@ -9,7 +9,7 @@ function PHACAV(){
                     <h2 className="mx-4 my-2 text-xl font-bold">Contexte</h2>
                     <p className="mx-2">Ce projet a été créé en une semaine dans le cadre du challenge technique de 3ème année de l'ESIEA.</p>
                     <p className="mx-2">Les élèves se sont retrouvés en compétition afin de finir le plus rapidement possible avec le meilleur résultat dans les temps impartis</p>
-                    <p className="mx-2">Chaque groupe finissant avant les autres obtenait la note maximale possible, la note baissant à chaque fois qu'un groupe terminait.</p>
+                    <p className="mx-2">Chaque groupe finissant avant les autres obtient la note maximale possible, la note baissant à chaque fois qu'un groupe termine.</p>
                     <p className="mx-2">Les groupes ont eu une soutenance de projet à la fin de la semaine afin de présenter leurs rendus et d'expliquer leurs choix techniques.</p>
                 </div>
                 <div className="my-10 w-100 h-100 border  border-green-900 rounded bg-white/5 backdrop-blur-sm hover:scale-105 transition-all duration-200">
@@ -48,7 +48,7 @@ function PHACAV(){
                 </div>
                 <div className="mx-65 mt-[-5.7cm] border border-green-900 rounded w-100 h-100 bg-white/5 backdrop-blur-sm hover:scale-105 transition-all duration-200">
                     <h2 className="mx-4 my-2 font-bold text-xl">Réussites personnelles</h2>
-                    <p className="mx-4 pb-2">Ce projet m'a été bénéfique car j'ai pu mettre en place directement les acquis que j'ai obtenus en Thaïlande au niveau des soft skills mais également sur le plan technique: </p>
+                    <p className="mx-4 pb-2">Ce projet m'a été bénéfique car j'ai pu directement mettre en place les acquis que j'ai obtenus en Thaïlande au niveau des soft skills mais également sur le plan technique: </p>
                     <ul className="list-disc mx-8">
                         <li>Collaborer avec un inconnu m'a permis de me challenger et de m'assurer que j'avais bel et bien acquis la capacité de m'adapter qui que soit mon partenaire.</li>
                         <li>Les cours de Python en Machine Learning m'ont permis de garder un rythme soutenu grâce à ma familiarisation avec le langage</li>

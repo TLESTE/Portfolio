@@ -9,7 +9,7 @@ function Swipe(){
                     <h2 className="font-bold text-xl mx-4 my-2">Contexte</h2>
                     <p className="mx-4">Dans le cadre du CapProjet de l'ESIEA en 4ème année, les étudiants ont une année pour développer un projet choisi par eux-mêmes au préalable et livrer un MVP.</p>
                     <p className="mx-4">Cela a pour but d'aider quiconque le souhaite de se rapprocher de ce qu'est le concept de politique, que ce soit par pure curiosité ou pour mieux comprendre ses affinités avec certains partis.</p>
-                    <p className="mx-4">Le public visé est les jeunes qui ont un désintérêt pour la politique mais l'application vise aussi les journalistes qui souhaitent avoir plus d'informations.</p>
+                    <p className="mx-4">Le public visé est les jeunes ayant un désintérêt pour la politique mais l'application vise aussi les journalistes qui souhaitent avoir plus d'informations.</p>
                 </div>
                 <div className="border rounded my-10 w-100 h-123 border-blue-900 bg-white/5 backdrop-blur-sm hover:scale-105 transition-all duration-200">
                     <h2 className="font-bold text-xl mx-4 my-2">L'objectif</h2>

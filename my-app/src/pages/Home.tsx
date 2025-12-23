@@ -69,7 +69,7 @@ function Home(){
                 <p className="mx-2 font-semibold">Responsable Communication - Bureau des sports ESIEA</p>
                     <p className="mx-6">Attributions des rôles quant au besoin de communication lié à un évenement. Vérification des solutions proposées et accord de post.</p>
                 <p className="mx-2 font-semibold">Responsable Communication - Bureau des élèves ESIEA</p>
-                    <p className="mx-6">Attributions des rôles quant au besoin de communication lié à un évenement. Préparation d'éléments graphique quant à l'annonce de la liste de membres lors de la réelection. </p>
+                    <p className="mx-6">Attributions des rôles quant au besoin de communication lié à un évenement. Préparation d'éléments graphique liés à l'annonce de la liste de membres lors de la réelection. </p>
             </div>
                 <div className="flex flex-wrap gap-3 mx-10 mt-4">
                     {[
@@ -96,20 +96,20 @@ function Home(){
                     <p className="mx-3">Création d'une simulation d'exoplanète à partir de données réelles de la NASA en une semaine dans le cadre du challenge technique de 3ème année à l'ESIEA</p>
                     <p className="mx-6">Récupération des données</p>
                     <p className="mx-6">Calculs du bruit de Simplex</p>
-                    <p className="mx-6">Simulation du climat à l'aide des données récupérés</p>
+                    <p className="mx-6">Simulation du climat à l'aide des données récupérées</p>
                     <p className="mx-3 font-semibold">Stack: Python, PyVista, Numpy, Pandas, Matplotlib, données ouvertes de la NASA</p>
-                    <button className="flex justify-self-center place-self-end my-2 mt-6 p-1 px-2 border rounded-2xl" onClick={toPHACAV}>Voir le projet    
+                    <button className="flex justify-self-center place-self-end my-2 mt-6 p-1 px-2 border rounded-2xl" onClick={toPHACAV}>Voir les détails    
                     </button> 
                 </div>    
                 <div className="border border-purple-500/30 rounded-2xl w-full bg-white/5 backdrop-blur-sm hover:bg-white/10 hover:scale-102 duration-200">
                     <h2 className="py-2 mx-5 font-bold text-purple-600 text-5xl text-center">Swipe Politique</h2>
                     <h3 className="mx-4 text-2xl text-red-500 font-semibold text-center">Ce projet est en cours de développement</h3>
-                    <p className="mx-3">Dans le cadre du CapProjet de l'ESIEA, nous avons avec une équipe de 5 créé une web-app interactive permettant à des utilisateurs tel que des jeunes à mieux comprendre leurs affinités politiques ou à s'intéresser à la politique.</p>
-                    <p className="mx-3">La web-app est composée de la partie principale, un système de swipe de lois, d'une rubrique d'actualités catégorisée et d'un glossaire pour mieux comprendre les termes politiques.</p>
+                    <p className="mx-3">Dans le cadre du CapProjet de l'ESIEA, nous avons, avec une équipe de 5 étudiants, créé une web-app interactive permettant à des utilisateurs tel que des jeunes à mieux comprendre leurs affinités politiques ou à s'intéresser à la politique.</p>
+                    <p className="mx-3">La web-app est composée de la partie principale : un système de swipe de lois, d'une rubrique d'actualités catégorisée et d'un glossaire pour mieux comprendre les termes politiques.</p>
                     <p className="mx-6">Création et initialisation de la Firebase</p>
                     <p className="mx-6">Création de la rubrique d'informations avec filtres par catégories</p>
                     <p className="mx-3 font-semibold">Stack: React, Node, Firebase (Auth + DB), JavaScript, Swipe.js, Chart.js</p>
-                    <button className="flex justify-self-center my-2 p-1 px-2 border rounded-2xl" onClick={toSwipe}>Voir le projet
+                    <button className="flex justify-self-center my-2 p-1 px-2 border rounded-2xl" onClick={toSwipe}>Voir les détails
                     </button>
                 </div>
             </div>
