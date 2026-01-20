@@ -1,7 +1,7 @@
 import "./Home.css"
-import pp from "../assets/photo_pro.jpg"
+import pp from "../assets/pppro.png"
 import { useNavigate } from "react-router-dom";
-import cv from '../assets/Théo Leste CV FR 2025.pdf';
+import cv from '../assets/CV LESTE Théo.pdf';
 
 function Home(){
     const navigate =useNavigate();
