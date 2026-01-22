@@ -39,15 +39,15 @@ function Home(){
             <div className="m-3 p-3 grid grid-cols-4 gap-y-3 text-left border rounded-sm">
                 <div className="font-bold ">
                     <h2 className="text-lg">Développement Logiciel</h2>
-                    <p className="font-normal">React, TS, Node, Python Java, C</p>
+                    <p className="font-normal">React, TS, Node, Python, Java, C</p>
                 </div>
                 <div className="font-bold">
                     <h2 className="text-lg">Data et base de données</h2>   
-                    <p className="font-normal">Python, Scipy, Skimage, Scikit-learn, PostgreSQL, MongoDB, Firebase, SQL, NoSQL </p>
+                    <p className="font-normal">Pandas, Scipy, Skimage, Scikit-learn, PostgreSQL, MongoDB, Firebase, SQL, NoSQL, R, Prolog, Hadoop, Ollama, Hugging Face </p>
                 </div>
                 <div className="font-bold">
                     <h2 className="text-lg">Système d'exploitation</h2>
-                    <p className="font-normal">Powershell, Linux</p>
+                    <p className="font-normal">Powershell, Linux, KeyBase, VeraCrypt, Tableaux</p>
                 </div>
                 <div className="font-bold">
                     <h2 className="text-lg">DevOps</h2>
